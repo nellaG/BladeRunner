@@ -1,2 +1,0 @@
-# BladeRunner
-Retro, futuristic colorscheme
